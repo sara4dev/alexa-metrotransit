@@ -1,0 +1,21 @@
+{
+  "intents": [
+    {
+      "intent": "GetDepartureTime",
+      "slots": [
+        {
+          "name": "Direction",
+          "type": "LIST_OF_DIRECTIONS"
+        },
+        {
+          "name": "Route",
+          "type": "LIST_OF_ROUTES"
+        },
+        {
+          "name": "Stop",
+          "type": "LIST_OF_STOPS"
+        }
+      ]
+    }
+  ]
+}
