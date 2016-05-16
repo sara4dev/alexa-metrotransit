@@ -12,3 +12,7 @@ LIST_OF_STOPS -	Anderson Hall | Hennepin Ave | Franklin Ave
 GetDepartureTime ask Metro Transit departure time from {Stop} for route {Route} {Direction}
 
 Eg., Alexa, ask Metro Transit departure time from Hennepin for route 7 north bound
+
+## Demo
+
+https://www.youtube.com/watch?v=fVU-EKo0Xp0
