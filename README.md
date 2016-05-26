@@ -1,5 +1,5 @@
 # alexa-metrotransit
-Alexa Custom skill set to interact with Metro Transit API
+Alexa Custom skill set to interact with Metro Transit API - http://svc.metrotransit.org/
 
 ## Custom Slot Types
 LIST_OF_DIRECTIONS -	NORTH BOUND | SOUTH BOUND | EAST BOUND | WEST BOUND
